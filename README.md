@@ -9,6 +9,6 @@
 <li>Ajax kullanılarak istenilen şeyler controller'a post edildi.</li>
 <li>Login Filtreleme işlemleri yapıldı.</li>
 <li>Mail servisi yazıldı.</li>
-<li>admin panelinde kullanılması gereken entityler oluşturuldu.</li>
+<li>Admin panelinde kullanılması gereken entityler oluşturuldu.</li>
   
 </ul>

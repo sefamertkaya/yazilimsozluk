@@ -1,0 +1,156 @@
+body {
+    padding-top: 64px;
+}
+  .ustbar{
+  	background-color:white;
+  	
+  	
+  }
+  a:hover{
+  	text-decoration:none;
+
+  }
+  a:active{
+  	text-decoration: none;
+  }
+.sticky-offset {
+    top: 76px;
+}
+
+#body-row {
+    margin-left:0;
+    margin-right:0;
+
+}
+  #sidebar-container {
+    min-height: 100vh;   
+    background-color: white;
+
+    padding-left:30px;
+    padding-right:20px;
+  
+    
+}
+.sidebar-expanded {
+    width: 230px;
+
+  
+}
+.sidebar-collapsed {
+    width: 60px;
+}
+
+/* Menu item*/
+#sidebar-container .list-group a {
+    height: 40px;
+    color: black;
+}
+
+/* Submenu item*/
+#sidebar-container .list-group .sidebar-submenu a {
+    height: 45px;
+    padding-left: 30px;
+    
+}
+.sidebar-submenu {
+    font-size: 0.9rem;
+}
+
+
+li{
+    list-style: none
+    
+}
+
+.list-style{
+    margin-top:13px;
+    border:none;
+    background-color: white;
+    
+   
+}
+.list-style:hover{
+    background-color:#e2e2e2;
+}
+
+#navbarNavDropdown a{
+	float:left;
+	color:#82868c;
+}
+.sidebar-liste{
+    border:none;background-color: white;
+    font-size: 15px;
+    padding:0px;
+ 
+    max-height: 85vh;
+    overflow-y: scroll;
+}
+
+
+
+nav{
+	background-color: #dbdbdb;
+}
+
+.baslikk{
+
+    color: #2b2b2b;
+
+
+}
+.baslikk:hover{
+
+    color: black;
+    text-decoration: underline;
+}
+
+.nav-link:hover{
+
+text-decoration: underline;
+}
+
+.begenmek{
+    color: black;
+    font-size: 11px;
+
+}
+.uyarýn{
+	
+	 color: red;
+    font-size: 11px;
+	
+}
+
+
+.nickname{
+    font-size: 11px;
+    float: right;
+    color: crimson;
+}
+
+.nickname:hover{
+
+text-decoration: underline;
+
+}
+
+.logo {
+   color: black;
+
+   text-decoration-color: black;
+  }
+  
+.logo:hover{
+    color: black;
+    
+    text-decoration-color: black;
+
+}
+
+.mesajlar{
+    height: 70vh;
+    max-height: 70vh;
+    overflow-y: scroll;
+
+
+}

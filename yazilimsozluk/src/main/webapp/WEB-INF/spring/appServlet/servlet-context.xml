@@ -69,8 +69,8 @@
 		<beans:property name="host" value="smtp.gmail.com" />
 		<beans:property name="protocol" value="smtp" />
 		<beans:property name="port" value="587" />
-		<beans:property name="username" value="javaspringegitim" />
-		<beans:property name="password" value="Java123." />
+		<beans:property name="username" value="mailgirin" />
+		<beans:property name="password" value="passgirin." />
 		<beans:property name="javaMailProperties">
 			<beans:props>
 				<beans:prop key="mail.smtp.auth">true</beans:prop>

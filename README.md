@@ -3,7 +3,7 @@
 
 <ul>
 <li>Örnek bir sözlük sitesi oluşturulmak istenmiştir.</li>
-<li>Yazılım konusunda türkçe içerik üretmek için esinlenilmiştir</li>
+<li>Yazılım konusunda türkçe içerik üretmek için esinlenilmiş bir site tasarımıdır</li>
 <li>Java Spring Framework ile maven,hibernate,jsp kullanılarak yazılmıştır.</li>
 <li>Html,css,javascript ve jquery kullanıldı.</li>
 <li>Ajax kullanılarak istenilen şeyler controller'a post edildi.</li>
